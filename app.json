@@ -1,0 +1,13 @@
+{
+  "name": "HUMAN ROBOT",
+  "logo":"https://te.legra.ph/file/bfc3e137fc23773b4cd74.jpg",
+  "description": "Advanced talking human robot Build by Attitude Galaxy Telegram ",
+  "env": {
+    "API_KEY": {
+      "description": "Bot Token, Get It From @BotFather.",
+      "value": ""
+    },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
